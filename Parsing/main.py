@@ -1,1 +1,1 @@
-print('abra - ADbra')
+print('АбраКадабра')
